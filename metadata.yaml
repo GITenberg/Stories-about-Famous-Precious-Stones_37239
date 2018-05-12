@@ -1,0 +1,34 @@
+_repo: Stories-about-Famous-Precious-Stones_37239
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Orpen, Adela E. (Adela Elizabeth Richards)
+    aliases:
+    - Orpen, Mrs.
+    - Orpen, Adela Elizabeth Richards
+    - Orpen, Mrs. Goddard
+    - Orpen, Mrs. G. H.
+    gutenberg_agent_id: '38726'
+    url: http://www.gutenberg.org/2009/agents/38726
+description: ''
+gutenberg_issued: '2011-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37239'
+  lccn: 08037254
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gems'
+- !lcc 'TS'
+tableOfContents: The Regent -- The Orloff -- La Pelegrina -- The Koh-i-nûr -- The
+  French Blue -- The Braganza -- The Black Prince's Ruby -- The Sanci -- The Great
+  Mogul -- The Austrian Yellow -- A famous necklace -- The Tara Brooch and the shrine
+  of St. Patrick's Bell.
+title: Stories About Famous Precious Stones
+url: http://www.gutenberg.org/ebooks/37239
